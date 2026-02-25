@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import Logo from "../assets/logo.png";
+import logo from "../assets/Logo.png";
 import { LiaTimesSolid } from "react-icons/lia";
 import { FaBars, FaPhone } from "react-icons/fa6";
 import DarkMode from "./DarkMode";
